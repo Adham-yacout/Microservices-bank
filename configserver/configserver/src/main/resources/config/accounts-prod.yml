@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Adhamyacout accounts related local APIs "
+  message: "Welcome to Adhamyacout's accounts related local APIs "
   contactDetails:
     name: "Adham yacout - Business"
     email: "adham.yacout@gmail.com"
