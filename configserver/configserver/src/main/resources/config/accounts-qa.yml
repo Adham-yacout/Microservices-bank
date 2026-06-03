@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Adhamyacout accounts related local APIs "
+  contactDetails:
+    name: "Adham yacout - QA LEAD"
+    email: "adham.yacout@gmail.com"
+  onCallSupport:
+    - (555) 555-5555
+    - (555) 523-1234

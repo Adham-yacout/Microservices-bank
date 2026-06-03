@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Adhamyacout accounts related local APIs "
+  contactDetails:
+    name: "Adham yacout - Developer"
+    email: "adham.yacout@gmail.com"
+  onCallSupport:
+    - (555) 555-5555
+    - (555) 523-1234
