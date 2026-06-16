@@ -137,7 +137,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>adhamyacout/${project.artifactId}:s4</name>
+						<name>adhamyacout/${project.artifactId}:s7</name>
 					</image>
 					<excludes>
 						<exclude>
